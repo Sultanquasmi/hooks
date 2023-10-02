@@ -9,7 +9,7 @@ const ReactHooks = () => {
             id:1 , Name:'Sultan Quasmi' , Age:23
         },
         {
-            id:2 , Name:'Rohan' , Age:20
+            id:2 , Name:'Rohan kundara' , Age:20
         },
         {
             id:3 , Name:'Lakhan' , Age:21
